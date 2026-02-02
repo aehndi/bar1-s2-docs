@@ -1,15 +1,10 @@
-# Willkommen bei Bar1 S2 Docs
+# Welcome to Bar1 S2 Docs
 
-Willkommen bei der Dokumentation für Bar1 S2.
+Welcome to the documentation for Bar1 S2.
 
-## Übersicht
+## Next Steps
 
-Dies ist eine Beispiel-Dokumentation erstellt mit Docusaurus.
-
-### Was ist Docusaurus?
-
-Docusaurus ist ein statischer Site-Generator für Dokumentation, der auf React basiert.
-
-## Nächste Schritte
-
-Fügen Sie Ihre eigenen Dokumentationsseiten hinzu.
+- [First Message to Players](01_players_very_first_message.md)
+- [Daily Hints for Players](02_player_daily_hints.md)
+- [Daily Hints for Planners](03_planners_daily_hints.md)
+- [Messages](04_messages.md)
