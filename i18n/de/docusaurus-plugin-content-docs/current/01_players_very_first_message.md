@@ -1,3 +1,5 @@
+# Erste Nachricht an Spieler
+
 Hallo zusammen,
 
 Season 2 (**Polar Storm**) startet bald und funktioniert **anders als Season 1**.

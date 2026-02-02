@@ -1,5 +1,6 @@
-# Last War – Season 2 „Polar Storm“
-## Täglicher Leitfaden für Spieler
+# Tägliche Hinweise für Spieler
+
+## Last War – Season 2 „Polar Storm“
 
 Dieser Leitfaden beschreibt, **was Spieler täglich tun sollten**, worauf besonders zu achten ist und welche **Dos & Don’ts** in der Season-2-Spielphase entscheidend sind.
 

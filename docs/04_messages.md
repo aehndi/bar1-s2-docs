@@ -1,5 +1,6 @@
+# Messages
+
 ❄️ Season 2 – Week 1 Start
-# ❄️ Season 2 started – IMPORTANT
 
 Season 2 **Polar Storm** is live.
 

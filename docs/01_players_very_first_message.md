@@ -1,3 +1,5 @@
+# First Message to Players
+
 Hello everyone,
 
 Season 2 (**Polar Storm**) is starting soon and works **differently from Season 1**.

@@ -1,3 +1,5 @@
+# Premier message aux joueurs
+
 Bonjour à tous,
 
 La saison 2 (**Tempête polaire**) commence bientôt et fonctionne **différemment de la saison 1**.

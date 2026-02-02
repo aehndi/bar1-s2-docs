@@ -1,4 +1,4 @@
-# Bienvenue sur Bar1 S2 Docs
+# Introduction
 
 Bienvenue dans la documentation pour Bar1 S2.
 

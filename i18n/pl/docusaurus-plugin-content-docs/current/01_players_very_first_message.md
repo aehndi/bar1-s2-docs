@@ -1,3 +1,5 @@
+# Pierwsza wiadomość do graczy
+
 Cześć wszystkim,
 
 Sezon 2 (**Polarna Burza**) wkrótce się rozpoczyna i działa **inaczej niż sezon 1**.

@@ -1,5 +1,6 @@
-# Last War – Season 2 "Polar Storm"
-## Daily Guide for Players
+# Daily Hints for Players
+
+## Last War – Season 2 "Polar Storm"
 
 This guide describes **what players should do daily**, what to pay special attention to, and which **Dos & Don’ts** are crucial in the Season 2 gameplay phase.
 

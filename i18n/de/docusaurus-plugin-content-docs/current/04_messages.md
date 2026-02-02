@@ -1,5 +1,6 @@
+# Nachrichten
+
 ❄️ Season 2 – Woche 1 Start
-# ❄️ Season 2 gestartet – WICHTIG
 
 Season 2 **Polar Storm** ist live.
 

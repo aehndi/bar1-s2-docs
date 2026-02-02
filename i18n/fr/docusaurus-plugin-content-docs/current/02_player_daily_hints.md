@@ -1,5 +1,6 @@
-# Last War – Saison 2 "Tempête Polaire"
-## Guide Quotidien pour les Joueurs
+# Conseils quotidiens pour les joueurs
+
+## Last War – Saison 2 "Tempête Polaire"
 
 Ce guide décrit **ce que les joueurs doivent faire quotidiennement**, à quoi prêter une attention particulière, et quels **Dos & Don’ts** sont cruciaux dans la phase de jeu de la Saison 2.
 

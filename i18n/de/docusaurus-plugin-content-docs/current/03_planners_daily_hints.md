@@ -1,5 +1,6 @@
-# 🧭 Season 2 – Polar Storm
-## WOCHE 1: DETAIL-PLAN FÜR R4 (ALLIANZ-PLANUNG)
+# Tägliche Hinweise für Planer
+
+## 🧭 Season 2 – Polar Storm
 
 ---
 
