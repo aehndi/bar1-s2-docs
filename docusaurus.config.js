@@ -55,7 +55,6 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Bar1 S2 Docs',
         logo: {
           alt: 'Bar1 S2 Logo',
           src: 'img/logo.svg',
@@ -63,6 +62,11 @@ const config = {
         items: [
           {
             type: 'localeDropdown',
+            position: 'left',
+          },
+          {
+            to: '/intro',
+            label: 'Home',
             position: 'left',
           },
           {
