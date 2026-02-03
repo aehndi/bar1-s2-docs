@@ -95,6 +95,31 @@ const config = {
             ],
           },
           {
+            title: 'Languages',
+            items: [
+              {
+                label: 'English',
+                to: '/intro',
+              },
+              {
+                label: 'Deutsch',
+                to: '/de/intro',
+              },
+              {
+                label: 'Français',
+                to: '/fr/intro',
+              },
+              {
+                label: 'Українська',
+                to: '/ua/intro',
+              },
+              {
+                label: 'Polski',
+                to: '/pl/intro',
+              },
+            ],
+          },
+          {
             title: 'Community',
             items: [
               {
