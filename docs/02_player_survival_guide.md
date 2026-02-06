@@ -9,16 +9,12 @@
 → Season 2 Engineer Skills Guide
 → Focus: Building/Research SpeedUps + Rapid Production
 
-text
-
 ---
 
 **🏗️ BUILD ORDER (Day 1 Priority):**
 1️⃣ HIGH-TEMPERATURE FURNACE → Lvl 15+ (your core!)
 2️⃣ TITANIUM FACTORY → Lvl 15 (then NEXT Factory)
 3️⃣ AUTO-OVERDRIVE ON
-
-text
 
 ---
 
@@ -31,10 +27,7 @@ ONLY for Furnace/Overdrive/Polar Events (40°C)
 
 🔸 TITANIUM ALLOY: Doom Elites + Scouts
 🔸 DAILY FIRST BLOOD DOOM WALKER → Highest level!
-
 🔸 RECON PLANES: Warm up teammates (+10°C)
-
-text
 
 ---
 
@@ -42,8 +35,6 @@ text
 🟢 SAFE: 0°C to -15°C (normal activity)
 🟡 CAUTION: -20°C → 30min Overdrive
 🔴 FROZEN BASE: -30°C+ → Offline 10min!
-
-text
 
 ---
 
@@ -53,8 +44,6 @@ text
 3️⃣ Alliance Furnace range (if nearby)
 4️⃣ Wait (15min)
 ❌ NEVER Teleport from Frozen state!
-
-text
 
 ---
 
@@ -70,8 +59,6 @@ Announced 1-2h before (Event icon!)
 2️⃣ Base in Alliance Furnace range
 3️⃣ Recon Plane if warned
 
-text
-
 ---
 
 **⚡ DAILY MUST-DOS (morning after wake up):**
@@ -81,14 +68,10 @@ text
 ☑️ FURNACE 600s + OVERDRIVE 600s
 ☑️ COLD WAVE survive
 
-text
-
 ---
 
 **📡 STATUS REPORT (optional, 10:00):**
 "Furnace 15 | Temp -8°C | Resistenz 60% | Coal donated | DW done"
-
-text
 
 **Pro Tip:** DW First Blood Lvl 150+ = **150k+ Coal** extra!
 
