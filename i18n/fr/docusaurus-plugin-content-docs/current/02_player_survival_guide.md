@@ -1,7 +1,6 @@
 ```markdown
 **🔥 TEMPÊTE POLAIRE – GUIDE DE SURVIE DU JOUEUR**  
 *Server 1692 • Reset 3:00 AM CET terminé*  
-*⚠️ R4/R5 : Ignorez cela – vous obtenez un plan séparé !*
 
 ---
 

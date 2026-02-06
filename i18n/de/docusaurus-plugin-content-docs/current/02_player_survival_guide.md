@@ -1,7 +1,6 @@
 ```markdown
 **🔥 POLAR STORM – SPIELER-ÜBERLEBENSLEITFADEN**  
 *Server 1692 • Reset 3:00 AM CET abgeschlossen*  
-*⚠️ R4/R5: Überspringt das – ihr bekommt einen separaten Plan!*
 
 ---
 

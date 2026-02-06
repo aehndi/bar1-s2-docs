@@ -8,3 +8,7 @@ Willkommen bei der Dokumentation für Bar1 S2.
 - [Tägliche Hinweise für Spieler](02_player_daily_hints.md)
 - [Tägliche Hinweise für Planer](03_planners_daily_hints.md)
 - [Nachrichten](04_messages.md)
+ - [Tables](05_tables.md) — nur in Englisch verfügbar
+ - [Alliance Coal & Furnace Strategy](06_alliance_coal__furnace_strategy.md) — nur in Englisch verfügbar
+ - [Tables](05_tables.md)
+ - [Alliance Coal & Furnace Strategy](06_alliance_coal__furnace_strategy.md)

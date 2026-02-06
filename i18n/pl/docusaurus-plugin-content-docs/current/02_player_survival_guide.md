@@ -1,7 +1,6 @@
 ```markdown
 **🔥 POLARNA BURZA – PRZEWODNIK PRZETRWANIA GRACZA**  
 *Server 1692 • Reset 3:00 AM CET zakończony*  
-*⚠️ R4/R5: Pomiń to – otrzymasz oddzielny plan!*
 
 ---
 

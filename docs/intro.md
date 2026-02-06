@@ -8,3 +8,5 @@ Welcome to the documentation for Bar1 S2.
 - [Daily Hints for Players](02_player_daily_hints.md)
 - [Daily Hints for Planners](03_planners_daily_hints.md)
 - [Messages](04_messages.md)
+ - [Tables](05_tables.md)
+ - [Alliance Coal & Furnace Strategy](06_alliance_coal__furnace_strategy.md)

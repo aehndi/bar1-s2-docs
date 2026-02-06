@@ -1,6 +1,5 @@
 **🔥 POLAR STORM – PLAYER SURVIVAL GUIDE**  
 *Server 1692 • Reset 3:00 AM CET done*  
-*⚠️ R4/R5: Skip this – you get separate plan!*
 
 ---
 
