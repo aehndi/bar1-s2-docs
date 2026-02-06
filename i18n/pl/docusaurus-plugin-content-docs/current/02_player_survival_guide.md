@@ -3,21 +3,21 @@
 
 ---
 
-**🛠️ UMIEJĘTNOŚCI INŻYNIERA:**
+**🛠️ UMIEJĘTNOŚCI INŻYNIERA:**\
 🔥 Sprawdź Bean Graphics!\
 → Przewodnik umiejętności inżyniera sezonu 2\
 → Fokus: Przyspieszenia budowy/badań + Szybka produkcja\
 
 ---
 
-**🏗️ KOLEJNOŚĆ BUDOWY (Priorytet dnia 1):**
+**🏗️ KOLEJNOŚĆ BUDOWY (Priorytet dnia 1):**\
 1️⃣ PIEC WYSOKOTEMPERATUROWY → Poziom 15+ (twoje jądro!)\
 2️⃣ FABRYKA TYTANU → Poziom 15 (następnie NASTĘPNA fabryka)\
 3️⃣ AUTO-OVERDRIVE WŁĄCZONY
 
 ---
 
-**⛽ NOWE ZASOBY + CODZIENNIE:**
+**⛽ NOWE ZASOBY + CODZIENNIE:**\
 🔸 WĘGIEL (wąskie gardło #1):\
     Codzienna DONACJA SOJUSZU → MAX (Boost pieca!)\
     TYLKO do pieca/overdrive/zdarzeń polarnych (40°C)\
@@ -27,14 +27,14 @@
 
 ---
 
-**🌡️ POZIOMY TEMPERATURY:**
+**🌡️ POZIOMY TEMPERATURY:**\
 🟢 BEZPIECZNE: 0°C do -15°C (normalna aktywność)\
 🟡 OSTRZEŻENIE: -20°C → 30 min Overdrive\
 🔴 ZAMROŻONA BAZA: -30°C+ → Offline 10 min!\
 
 ---
 
-**🧊 JEŚLI ZAMARZNIĘTE:**
+**🧊 JEŚLI ZAMARZNIĘTE:**\
 1️⃣ Poproś członka sojuszu o SAMOLOT ROZPOZNAWCZY (natychmiast +10°C)\
 2️⃣ AUTO-OVERDRIVE MAX\
 3️⃣ Zasięg pieca sojuszu (jeśli blisko)\
@@ -43,7 +43,7 @@
 
 ---
 
-**🌙 BURZA ŚNIEŻNA I OCHRONA NOCNA:**
+**🌙 BURZA ŚNIEŻNA I OCHRONA NOCNA:**\
 🌨️ BURZE ŚNIEŻNE (Alert fali zimna):\
     Ogłoszone 1-2h wcześniej (Ikona zdarzenia!)\
     -20°C do -50°C (godzinami)\
@@ -55,7 +55,7 @@
 
 ---
 
-**⚡ CODZIENNE MUSI-DO (rano po przebudzeniu):**
+**⚡ CODZIENNE MUSI-DO (rano po przebudzeniu):**\
 ☑️ CODZIENNA PIERWSZA KREW DOOM WALKER (najwyższy poziom)\
 ☑️ DONACJA WĘGLA SOJUSZU → MAX\
 ☑️ ZWIADOWCY POLARNE (promień 2h)\
@@ -64,7 +64,7 @@
 
 ---
 
-**📡 RAPORT ZE STATUSU (opcjonalnie, 10:00):**
+**📡 RAPORT ZE STATUSU (opcjonalnie, 10:00):**\
 "Piec 15 | Temp -8°C | Odporność 60% | Węgiel darowany | DW gotowe"\
 
 **Wskazówka Pro:** DW Pierwsza krew Poziom 150+ = **150k+ Węgla** ekstra!

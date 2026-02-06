@@ -3,21 +3,21 @@
 
 ---
 
-**🛠️ COMPÉTENCES D'INGÉNIEUR :**
+**🛠️ COMPÉTENCES D'INGÉNIEUR :**\
 🔥 Consulter les graphiques de Bean !\
 → Guide des compétences d'ingénieur de la saison 2\
 → Accent : Accélération des bâtiments/recherches + Production rapide\
 
 ---
 
-**🏗️ ORDRE DE CONSTRUCTION (Priorité du jour 1) :**
+**🏗️ ORDRE DE CONSTRUCTION (Priorité du jour 1) :**\
 1️⃣ FOUR À HAUTE TEMPÉRATURE → Niv 15+ (ton cœur !)\
 2️⃣ USINE DE TITANE → Niv 15 (puis USINE SUIVANTE)\
 3️⃣ SURCHARGE AUTOMATIQUE ACTIVÉE
 
 ---
 
-**⛽ NOUVELLES RESSOURCES + QUOTIDIEN :**
+**⛽ NOUVELLES RESSOURCES + QUOTIDIEN :**\
 🔸 CHARBON (goulot d'étranglement #1) :\
     Donation quotidienne à l'ALLIANCE → MAX (Boost du four !)\
     UNIQUEMENT pour Four/Surcharge/Événements polaires (40°C)\
@@ -27,14 +27,14 @@
 
 ---
 
-**🌡️ NIVEAUX DE TEMPÉRATURE :**
+**🌡️ NIVEAUX DE TEMPÉRATURE :**\
 🟢 SÛR : 0°C à -15°C (activité normale)\
 🟡 ATTENTION : -20°C → Surcharge 30min\
 🔴 BASE GELÉE : -30°C+ → Hors ligne 10min !\
 
 ---
 
-**🧊 SI GELÉ :**
+**🧊 SI GELÉ :**\
 1️⃣ Demander un AVION DE RECONNAISSANCE à un allié (instant +10°C)\
 2️⃣ SURCHARGE AUTOMATIQUE MAX\
 3️⃣ Plage de four d'alliance (si proche)\
@@ -43,7 +43,7 @@
 
 ---
 
-**🌙 BLIZZARD & PROTECTION NOCTURNE :**
+**🌙 BLIZZARD & PROTECTION NOCTURNE :**\
 🌨️ BLIZZARDS (Alerte de vague froide) :\
     Annoncé 1-2h avant (Icône d'événement !)\
     -20°C à -50°C (heures durant)\
@@ -55,7 +55,7 @@
 
 ---
 
-**⚡ MUST-DOS QUOTIDIENS (le matin après le réveil) :**
+**⚡ MUST-DOS QUOTIDIENS (le matin après le réveil) :**\
 ☑️ PREMIER SANG QUOTIDIEN DOOM WALKER (plus haut niveau)\
 ☑️ DONATION CHARBON ALLIANCE → MAX\
 ☑️ ÉCLAIREURS POLAIRES (rayon 2h)\
@@ -64,7 +64,7 @@
 
 ---
 
-**📡 RAPPORT DE STATUT (optionnel, 10:00) :**
+**📡 RAPPORT DE STATUT (optionnel, 10:00) :**\
 "Four 15 | Temp -8°C | Résistance 60% | Charbon donné | DW fait"\
 
 **Conseil pro :** DW Premier sang Niv 150+ = **150k+ Charbon** supplémentaire !

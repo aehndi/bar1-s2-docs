@@ -3,21 +3,21 @@
 
 ---
 
-**🛠️ ENGINEER SKILLS:**
+**🛠️ ENGINEER SKILLS:**\
 🔥 Check Bean Graphics!\
 → Season 2 Engineer Skills Guide\
 → Focus: Building/Research SpeedUps + Rapid Production\
 
 ---
 
-**🏗️ BUILD ORDER (Day 1 Priority):**
+**🏗️ BUILD ORDER (Day 1 Priority):**\
 1️⃣ HIGH-TEMPERATURE FURNACE → Lvl 15+ (your core!)\
 2️⃣ TITANIUM FACTORY → Lvl 15 (then NEXT Factory)\
 3️⃣ AUTO-OVERDRIVE ON
 
 ---
 
-**⛽ NEW RESOURCES + DAILIES:**
+**⛽ NEW RESOURCES + DAILIES:**\
 🔸 COAL (bottleneck #1):\
     Daily ALLIANCE DONATION → MAX (Furnace boost!)\
     ONLY for Furnace/Overdrive/Polar Events (40°C)\
@@ -27,14 +27,14 @@
 
 ---
 
-**🌡️ TEMPERATURE LEVELS:**
+**🌡️ TEMPERATURE LEVELS:**\
 🟢 SAFE: 0°C to -15°C (normal activity)\
 🟡 CAUTION: -20°C → 30min Overdrive\
 🔴 FROZEN BASE: -30°C+ → Offline 10min!\
 
 ---
 
-**🧊 IF FROZEN:**
+**🧊 IF FROZEN:**\
 1️⃣ Ask alliance member for RECON PLANE (instant +10°C)\
 2️⃣ AUTO-OVERDRIVE MAX\
 3️⃣ Alliance Furnace range (if nearby)\
@@ -43,7 +43,7 @@
 
 ---
 
-**🌙 BLIZZARD & NIGHT PROTECTION:**
+**🌙 BLIZZARD & NIGHT PROTECTION:**\
 🌨️ BLIZZARDS (Cold Wave Alert):\
     Announced 1-2h before (Event icon!)\
     -20°C to -50°C (hours long)\
@@ -55,7 +55,7 @@
 
 ---
 
-**⚡ DAILY MUST-DOS (morning after wake up):**
+**⚡ DAILY MUST-DOS (morning after wake up):**\
 ☑️ DAILY DOOM WALKER FIRST BLOOD (highest level)\
 ☑️ COAL ALLIANCE DONATION → MAX\
 ☑️ POLAR SCOUTS (2h radius)\
@@ -64,7 +64,7 @@
 
 ---
 
-**📡 STATUS REPORT (optional, 10:00):**
+**📡 STATUS REPORT (optional, 10:00):**\
 "Furnace 15 | Temp -8°C | Resistenz 60% | Coal donated | DW done"\
 
 **Pro Tip:** DW First Blood Lvl 150+ = **150k+ Coal** extra!
