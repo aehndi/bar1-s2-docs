@@ -1,74 +1,89 @@
-# Erste Nachricht an Spieler
+\`\`\`markdown
+**🕐 Server 1692: Reset 3:00 AM CET → S2 startet ca. 3:05 AM CET**
 
 Hallo zusammen,
 
-Season 2 (**Polar Storm**) startet bald und funktioniert **anders als Season 1**.
-Bitte nehmt euch kurz Zeit, diese Nachricht zu lesen. Das hilft, Stress, Verluste und Probleme zu vermeiden.
+Season 2 (**Polar Storm**) startet bald und funktioniert **anders als Season 1**.  
+Bitte nimm dir einen Moment Zeit für diese Nachricht. Das hilft, Stress, Verluste und Probleme zu vermeiden.
+
+---
+
+**⚠️ WICHTIG: Doom Walker erst NACH S2-Start angreifen (höchstes Level für First Blood Coal!)**
 
 ---
 
 **1️⃣ Start und Teleport**
 
-* Wir starten **an einer zufälligen Position auf der Karte**. Das ist **NICHT** unser endgültiger Standort.
-* Es gibt **nur eine sehr begrenzte Anzahl kostenloser Teleports**.
-* **Bitte NICHT sofort teleportieren.**
-* Wir informieren klar, **wann** und **wohin** wir als Allianz umziehen.
+* Wir starten **an einer zufälligen Position auf der Map**. Das ist **NICHT** unser endgültiger Standort.  
+* Es gibt **nur sehr begrenzt freie Teleporte**.  
+* **Bitte teleportiere NICHT sofort.**  
+* Wir informieren euch deutlich **wann** und **wohin** wir uns als Allianz bewegen.
 
-👉 Behandelt den **kostenlosen Teleport** so, als gäbe es **nur einen einzigen**.
+👉 Behandle den **freien Teleport** so, als gäbe es **nur einen**.
 
 ---
 
-**2️⃣ Furnace und Resistenz haben höchste Priorität**
+**2️⃣ Ofen und Widerstand haben höchste Priorität**
 
-* Der **Hochtemperatur-Ofen (Furnace)** ist das wichtigste Gebäude in Season 2.
+* Der **Hochtemperaturofen (Furnace)** ist das wichtigste Gebäude in Season 2.  
 * Zuerst:
+  * Ofen aufrüsten  
+  * Temperatur und Virenresistenz erhöhen  
+* Keine Experimente, **keine unnötige Eile**, keine unnötigen Kämpfe.
 
-  * Furnace verbessern
-  * Temperatur- und Virus-Resistenz erhöhen
-* Keine Experimente, **kein unnötiges Tempo**, keine unnötigen Kämpfe.
-
-Ohne ausreichende Resistenz ist kein Fortschritt möglich.
+Ohne ausreichenden Widerstand ist kein Fortschritt möglich.
 
 ---
 
 **3️⃣ Disziplin bei Ressourcen**
 
-* **Kohle ist sehr knapp.**
-* Kohle bitte **NUR** verwenden für:
-
-  * Furnace
-  * zwingend notwendige Season-Gebäude
-* Kein dauerhaftes Heizen und **keine Tests ohne Notwendigkeit**.
-
----
-
-**4️⃣ Kämpfe und Eroberungen**
-
-* **Tag 1–2: KEINE Eroberungen**
-* Ab **Tag 3–4** eventuell erste kleine Aktionen
-* Größere Eroberungen **nur nach Ansage der Allianz-Leitung**
-
-Zu frühe Kämpfe kosten Truppen und werfen Einzelne und die Allianz zurück.
+* **Kohle ist extrem knapp.**  
+* Nutze Kohle **NUR** für:
+  * Ofen  
+  * absolut notwendige Season-Gebäude  
+* Keine ständige Heizung und **keine Tests ohne Notwendigkeit**.
 
 ---
 
-**⚠️ Temperatur-Warnung (sehr wichtig)**
-Teleports, Kämpfe und mehrere Aktionen hintereinander **senken die Temperatur**.
-Nach einem Teleport **keine direkten Kämpfe**.
-Vor jeder Aktion bitte die Temperatur prüfen. Eingefrorene Basen sind **kein Fehler**.
+**4️⃣ Boss-Kämpfe und Eroberungen**
+
+* **Tag 1–2: KEINE Eroberungen**  
+* Ab **Tag 3–4** eventuell erste kleine Aktionen  
+* Grabstätten und Stadt-Eroberungen **nur nach Ankündigung durch Allianzführung**
+
+Zu frühe Kämpfe kosten Truppen und setzen Einzelne und die Allianz zurück.
 
 ---
 
-**5️⃣ Mindset für Season 2**
+**⚠️ Temperatur-Warnung (sehr wichtig)**  
+Teleporte, Kämpfe und mehrere Aktionen hintereinander **senken die Temperatur**.  
+Nach einem Teleport **keine direkten Kämpfe**.  
+Überprüfe die Temperatur vor jeder Aktion. Gefrorene Basen sind **kein Fehler**.
 
-* Geduld ist wichtiger als Aktionismus
-* Stabilität ist wichtiger als Tempo
-* Wir spielen Season 2 **koordiniert als Allianz**, nicht als Einzelspieler
+---
 
-**Kurzfassung:**
-Nicht teleportieren, nicht hetzen, Furnace verbessern, auf Ansagen warten.
+**5️⃣ Mentalität für Season 2**
 
-Bei Fragen bitte **vor Aktionen** melden.
+* Geduld ist wichtiger als Aktivismus  
+* Stabilität ist wichtiger als Geschwindigkeit  
+* Wir spielen Season 2 **koordiniert als Allianz**, nicht als Einzelspieler  
 
-Danke euch 👍
-Lasst uns das sauber und koordiniert spielen.
+---
+
+**Kurze Checkliste (sehr wichtig):**
+
+- Server 1692: **S2 startet 3:05 AM CET** – Doom Walker erst DANACH (höchstes Level)!  
+- Teleportiere **nicht**, bis die Allianzführung den Zielort angibt.  
+- Baue und rüste den **Ofen zuerst auf** – Temperatur und Widerstand vor allem anderen.  
+- Nutze **Kohle nur** für Ofen und echte Notfälle – keine ständige Heizung.  
+- **Tag 1–2 keine Eroberungen**, nur sichere PvE-Ziele.  
+- Überprüfe deine **Temperatur vor jeder Aktion**; nach Teleport, warte vor dem Kampf.
+
+---
+
+Bei Fragen bitte **vor Aktionen berichten**.
+
+Danke 👍  
+Lass uns sauber und koordiniert spielen.
+
+\`\`\`

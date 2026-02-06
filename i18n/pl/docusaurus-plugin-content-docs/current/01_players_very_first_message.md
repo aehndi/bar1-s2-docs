@@ -1,18 +1,23 @@
-# Pierwsza wiadomość do graczy
+\`\`\`markdown
+**🕐 Server 1692: Reset 3:00 AM CET → S2 rozpoczyna się ok. 3:05 AM CET**
 
-Cześć wszystkim,
+Cześć wszyscy,
 
-Sezon 2 (**Polarna Burza**) wkrótce się rozpoczyna i działa **inaczej niż sezon 1**.
-Proszę poświęć chwilę na przeczytanie tej wiadomości. Pomaga to uniknąć stresu, strat i problemów.
+Sezon 2 (**Polar Storm**) zaraz się zaczyna i działa **inaczej niż Sezon 1**.  
+Poświęć chwilę, aby przeczytać tę wiadomość. Pomaga to uniknąć stresu, strat i problemów.
+
+---
+
+**⚠️ WAŻNE: Zaatakuj Doom Walker DOPIERO PO starcie S2 (najwyższy poziom dla First Blood Coal!)**
 
 ---
 
 **1️⃣ Start i Teleportacja**
 
-* Zaczynamy **na losowej pozycji na mapie**. To **NIE** jest nasze ostateczne miejsce.
-* Jest **tylko bardzo ograniczona liczba bezpłatnych teleportacji**.
-* **Proszę NIE teleportować się natychmiast.**
-* Jasno poinformujemy was **kiedy** i **dokąd** się przemieszczamy jako sojusz.
+* Zaczynamy **na losowej pozycji na mapie**. To **NIE** nasza ostateczna lokalizacja.  
+* Jest **bardzo ograniczona liczba bezpłatnych teleportacji**.  
+* **Proszę NIE teleportować się natychmiast.**  
+* Wyraźnie poinformujemy cię **kiedy** i **gdzie** poruszamy się jako sojusz.
 
 👉 Traktuj **bezpłatną teleportację** tak, jakby była **tylko jedna**.
 
@@ -20,55 +25,65 @@ Proszę poświęć chwilę na przeczytanie tej wiadomości. Pomaga to uniknąć 
 
 **2️⃣ Piec i Odporność mają najwyższy priorytet**
 
-* **Piec wysokotemperaturowy (Piec)** jest najważniejszym budynkiem w sezonie 2.
+* **Piec wysokotemperaturowy (Furnace)** jest najważniejszym budynkiem w Sezonie 2.  
 * Najpierw:
+  * Ulepsz Piec  
+  * Zwiększ temperaturę i odporność na wirusy  
+* Bez eksperymentów, **bez niepotrzebnego pośpiechu**, bez niepotrzebnych walk.
 
-  * Ulepsz Piec
-  * Zwiększ temperaturę i odporność na wirusy
-* Brak eksperymentów, **brak niepotrzebnego pośpiechu**, brak niepotrzebnych walk.
-
-Bez wystarczającej odporności postęp nie jest możliwy.
-
----
-
-**3️⃣ Dyscyplina z zasobami**
-
-* **Węgiel jest bardzo rzadki.**
-* Proszę używać węgla **TYLKO** do:
-
-  * Pieca
-  * absolutnie niezbędnych budynków sezonowych
-* Brak stałego ogrzewania i **brak testów bez konieczności**.
+Bez wystarczającej odporności nie można osiągnąć postępu.
 
 ---
 
-**4️⃣ Walki i podboje**
+**3️⃣ Dyscyplina w zasobach**
 
-* **Dzień 1–2: BRAK podbojów**
-* Od **dnia 3–4** ewentualnie pierwsze małe akcje
-* Większe podboje **tylko po ogłoszeniu przez przywództwo sojuszu**
-
-Zbyt wczesne walki kosztują wojska i cofają jednostki i sojusz.
-
----
-
-**⚠️ Ostrzeżenie o temperaturze (bardzo ważne)**
-Teleportacje, walki i kilka akcji z rzędu **obniżają temperaturę**.
-Po teleportacji **brak bezpośrednich walk**.
-Proszę sprawdzać temperaturę przed każdą akcją. Zamrożone bazy to **nie błąd**.
+* **Węgiel jest bardzo rzadki.**  
+* Używaj węgla **TYLKO** do:
+  * Pieca  
+  * absolutnie niezbędnych budynków sezonu  
+* Bez stałego ogrzewania i **bez testów bez potrzeby**.
 
 ---
 
-**5️⃣ Myślenie na sezon 2**
+**4️⃣ Walki z Bossami i podboje**
 
-* Cierpliwość jest ważniejsza niż aktywizm
-* Stabilność jest ważniejsza niż prędkość
-* Gramy sezon 2 **skoordynowani jako sojusz**, nie jako indywidualni gracze
+* **Dzień 1–2: BEZ podbojów**  
+* Od **Dnia 3–4** możliwe pierwsze małe akcje  
+* Podboje kopalni i miast **tylko po ogłoszeniu przez przywództwo sojuszu**
 
-**Podsumowanie:**
-Nie teleportuj się, nie spiesz się, ulepsz Piec, czekaj na ogłoszenia.
+Zbyt wczesne walki kosztują żołnierzy i opóźniają poszczególnych graczy i sojusz.
 
-W przypadku pytań, proszę **zgłaszać przed akcjami**.
+---
 
-Dziękuję 👍
-Zagrajmy czysto i skoordynowanie.
+**⚠️ Ostrzeżenie o Temperaturze (bardzo ważne)**  
+Teleportacje, walki i kilka akcji z rzędu **obniżają temperaturę**.  
+Po teleportacji **bez bezpośrednich walk**.  
+Sprawdzaj temperaturę przed każdą akcją. Zamarznięte bazy to **nie błąd**.
+
+---
+
+**5️⃣ Mentalność dla Sezonu 2**
+
+* Cierpliwość jest ważniejsza niż aktywizm  
+* Stabilność jest ważniejsza niż szybkość  
+* Gramy Sezon 2 **skoordynowani jako sojusz**, nie jako indywidualni gracze  
+
+---
+
+**Krótka lista kontrolna (bardzo ważne):**
+
+- Server 1692: **S2 rozpoczyna się 3:05 AM CET** – Zaatakuj Doom Walker DOPIERO POTEM (najwyższy poziom)!  
+- **Nie** teleportuj się, dopóki przywództwo sojuszu nie poda lokalizacji docelowej.  
+- Zbuduj i ulepsz **Piec najpierw** – temperatura i odporność przed wszystkim innym.  
+- Używaj **węgla tylko** do Pieca i prawdziwych nagłych wypadków – bez stałego ogrzewania.  
+- **Dzień 1–2 bez podbojów**, tylko bezpieczne cele PvE.  
+- Sprawdzaj swoją **temperaturę przed każdą akcją**; po teleportacji czekaj przed walką.
+
+---
+
+W razie pytań **zgłoś się przed podjęciem akcji**.
+
+Dziękuję 👍  
+Gracze czystą i skoordynowaną grę.
+
+\`\`\`
