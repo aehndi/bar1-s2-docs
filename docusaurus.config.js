@@ -62,7 +62,7 @@ const config = {
         items: [
           {
             type: 'localeDropdown',
-            position: 'left',
+            position: 'right',
           },
           {
             to: '/intro',
@@ -94,31 +94,7 @@ const config = {
               },
             ],
           },
-          {
-            title: 'Languages',
-            items: [
-              {
-                label: 'English',
-                to: '/intro',
-              },
-              {
-                label: 'Deutsch',
-                to: '/de/intro',
-              },
-              {
-                label: 'Français',
-                to: '/fr/intro',
-              },
-              {
-                label: 'Українська',
-                to: '/ua/intro',
-              },
-              {
-                label: 'Polski',
-                to: '/pl/intro',
-              },
-            ],
-          },
+          /* Languages footer links removed — language chooser available in navbar */
           {
             title: 'Community',
             items: [
