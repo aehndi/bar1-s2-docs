@@ -1,4 +1,3 @@
-````markdown
 # 🔥 Last War Season 2 – Piec Sojuszu: Węgiel i Strategia
 
 ## 📊 Zużycie węgla według poziomu pieca
@@ -188,5 +187,3 @@ Używać Overdrive tylko gdy:
 - Stałe działanie wymaga silnej gospodarki węglowej
 - Overdrive jest kosztowny, ale potężny
 - Silne sojusze planują węgiel długoterminowo
-
-````

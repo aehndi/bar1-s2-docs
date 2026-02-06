@@ -8,5 +8,5 @@ Witamy w dokumentacji dla Bar1 S2.
 - [Przewodnik przetrwania gracza](02_player_survival_guide.md)
 - [Codzienne wskazówki dla planistów](03_planners_daily_hints.md)
 - [Wiadomości](04_messages.md)
- - [Tables](05_tables.md)
- - [Alliance Coal & Furnace Strategy](06_alliance_coal__furnace_strategy.md)
+ - [Tabele](05_tables.md)
+ - [Piec Sojuszu: Węgiel i Strategia](06_alliance_coal__furnace_strategy.md)

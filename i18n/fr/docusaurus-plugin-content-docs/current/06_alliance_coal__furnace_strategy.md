@@ -1,4 +1,3 @@
-````markdown
 # 🔥 Last War Saison 2 – Fourneau d'alliance : Charbon & Stratégie
 
 ## 📊 Consommation de charbon par niveau de fourneau
@@ -189,4 +188,3 @@ Utiliser l'Overdrive seulement quand :
 - L'Overdrive est coûteux mais puissant
 - Les alliances fortes planifient le charbon sur le long terme
 
-````

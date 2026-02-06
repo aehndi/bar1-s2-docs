@@ -8,5 +8,5 @@
 - [Посібник виживання гравця](02_player_survival_guide.md)
 - [Щоденні підказки для планувальників](03_planners_daily_hints.md)
 - [Повідомлення](04_messages.md)
- - [Tables](05_tables.md)
- - [Alliance Coal & Furnace Strategy](06_alliance_coal__furnace_strategy.md)
+ - [Таблиці](05_tables.md)
+ - [Піч Альянсу: Вугілля та Стратегія](06_alliance_coal__furnace_strategy.md)
